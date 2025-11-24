@@ -1,0 +1,7 @@
+
+        Cara kerja machine learning
+        Pelatihan: Algoritma dilatih menggunakan sejumlah besar data untuk mengidentifikasi pola atau hubungan statistik.
+        Model: Hasil dari proses pelatihan adalah sebuah "model", yang merupakan apa yang dipelajari program dari data.
+        Penyempurnaan: Jika model tidak akurat, algoritma akan menyesuaikan dirinya berulang kali (melalui proses seperti "penurunan gradien") untuk meminimalkan kesalahan dan meningkatkan performa.
+        Prediksi: Setelah model terlatih, ia dapat digunakan untuk membuat prediksi atau klasifikasi berdasarkan data baru yang belum pernah dilihat sebelumnya.    
+    

@@ -1,0 +1,3 @@
+
+        Machine learning (ML) adalah bagian dari kecerdasan buatan (AI) yang memungkinkan sistem untuk belajar dari data tanpa diprogram secara eksplisit, meningkatkan kemampuannya seiring waktu. ML menggunakan algoritma untuk menganalisis data, menemukan pola, membuat prediksi, dan mengambil keputusan secara otomatis. Contoh penerapannya termasuk filter spam, pengenalan wajah di smartphone, dan rekomendasi produk di situs e-commerce. 
+    
